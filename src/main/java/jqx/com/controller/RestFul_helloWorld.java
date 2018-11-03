@@ -29,6 +29,7 @@ public class RestFul_helloWorld {
 		list.add(new Student(1L, "张三", "123", "湖南", "admin"));
 		list.add(new Student(2L, "李四", "456", "广东", "admin"));
 		list.add(new Student(3L, "王五", "789", "成都", "admin"));
+		list.add(new Student(4L, "王二麻子", "455", "龙城", "admin"));
 		return list;
 	}
 	
